@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 100px;
+    background-color: rgb(205, 223, 205);
+
+
+
+}
+
+input {
+    border-radius: 10px;
+    box-shadow: 10 5px 30px rgba(0, 0, 0, 0.1);
+    padding: 4px;
+}
+
+button:hover {
+    color: blue;
+    cursor: pointer;
+
+
+}
+
+button {
+    border-radius: 10px;
+    box-shadow: 10 5px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 10 5px 30px rgba(0, 0, 0, 0.1);
+    padding: 12px;
+    background-color: aliceblue;
+    height: 325px;
+    width: 300px;
+    margin-left: 400px;
+
+
+}
